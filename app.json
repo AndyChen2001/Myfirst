@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/home/index/index",
+    "pages/logs/logs",
+    "pages/home/practice/practice",
+    "pages/home/sleep/sleep",
+    "pages/home/eat/eat",
+    "pages/home/medicine/medicine",
+    "pages/reminder/takemedicine/takemedicine",
+    "pages/login/login/login",
+    "pages/home/task/task",
+    "pages/login/register/register"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "史莱姆养成",
+    "navigationBarTextStyle": "black"
+  },
+  "useExtendedLib": {
+    "kbone": true,
+    "weui": true
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
